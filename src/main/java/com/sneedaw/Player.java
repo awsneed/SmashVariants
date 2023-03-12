@@ -5,7 +5,7 @@ import java.util.Set;
 public interface Player {
     String getName();
     int getScore();
-    void setScore();
+    void setScore(int score);
     Set<Fighter> getFighters();
-    void registerFighter(Fighter fighter);
+    boolean registerFighter(Fighter fighter);
 }
