@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18a5f4cf-d021-483b-b208-04ea2c994711" name="Changes" comment="Set up basic project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sneedaw/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sneedaw/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sneedaw/Player.java" afterDir="false" />
+    <list default="true" id="18a5f4cf-d021-483b-b208-04ea2c994711" name="Changes" comment="Correct an interface method">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sneedaw/BasicFighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sneedaw/BasicGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sneedaw/BasicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,6 +67,11 @@
     "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sneedaw" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678616531510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add initial basic interfaces">
+      <created>1678618280904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678618280904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Correct an interface method">
+      <created>1678620369885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678620369885</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Set up basic project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set up basic project" />
+    <MESSAGE value="Add initial basic interfaces" />
+    <MESSAGE value="Correct an interface method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct an interface method" />
   </component>
 </project>
