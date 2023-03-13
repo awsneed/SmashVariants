@@ -1,4 +1,4 @@
-package com.sneedaw;
+package com.sneedaw.smashvariants;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

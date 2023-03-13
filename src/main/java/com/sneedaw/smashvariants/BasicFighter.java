@@ -1,4 +1,4 @@
-package com.sneedaw;
+package com.sneedaw.smashvariants;
 
 public class BasicFighter implements Fighter {
     private String name;
